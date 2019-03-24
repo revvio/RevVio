@@ -1,0 +1,109 @@
+@import url("https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat:400,500,600,700");
+
+.container{
+  min-height:100%;
+  min-width:100%; 
+}
+.big-big-container{
+   display: flex;
+   /* justify-content: flex-start; */
+ }
+.title{
+   font-family: Montserrat;
+   font-style: normal;
+   font-weight: 500;
+  font-size: 36px !important;
+ line-height: normal;
+ }
+ .login-title{
+   font-size: 36px !important;
+   margin-top: 164px;
+   margin-bottom: 82px;
+ }
+.format{
+   margin: 98px 50px;
+}
+.v-icon{
+   font-size: 21px;
+}
+.application{
+   font-family:  Montserrat;
+}
+.btn-divider{
+   margin-top: 80%;
+}
+ .uppercase{
+   text-transform: uppercase;
+ }
+ .prompt{
+    margin: 35px 0px;
+    font-size: 30px;
+    color: #00666C;
+ }
+ .subPrompt{
+   font-weight: 500;
+   font-size: 16px;
+   color: #000000;
+ }
+ .number{
+   font-weight: 500;
+   font-size: 30px;
+   color: #000000;
+}
+
+ .bluish{
+   color: #0099CA;
+} 
+.greenish{
+   color:  #00666C;
+}
+.zipcode{
+   margin-top: 20px;
+   font-weight: bold;
+   font-size: 14px;
+   letter-spacing: 0.1em;
+   text-transform: uppercase;
+   color: #6E6E6E;}
+
+   .zipcode2{
+      font-weight: bold;
+      font-size: 14px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #6E6E6E;}
+.v-btn{
+      font-size: 18px;
+      min-height:60px;
+      min-width: 100%;
+   }
+.gray-btn{
+      background: #BFBFBF;
+      color: #000000;
+    }
+.blue-btn{
+      color: #FFFFFF !important;
+    }
+.header{
+   margin:20px 0px 0px 20px;
+   display: flex;
+   justify-content: space-between;
+}
+
+.bigStatus{
+   min-width: 150px;
+   min-height: 46px;
+   border: 2px solid #00666C;
+   border-right: #FFFFFF;
+   box-sizing: border-box;
+   border-top-left-radius: 100px;
+   border-bottom-left-radius: 100px;
+}
+.bigBig{
+   margin-left:40px;
+   margin-top:10px;
+}
+.card-container{
+   display:flex;
+
+}
+
