@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <div class="landing">
-    <img class="img" src="https://raw.githubusercontent.com/crissacandler/RevVio/master/logomark-03.png"/>
+    <img class="img" src="https://raw.githubusercontent.com/revvio/Picchas/master/logomark-03.png"/>
     <div class="title">RevVio</div>
     <div class="uppercase">Responder</div>
     </div>
